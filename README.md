@@ -1,6 +1,6 @@
 # React-Clicky-Game
 
-https://dashboard.heroku.com/apps/secret-fortress-87699
+https://secret-fortress-87699.herokuapp.com/
 
 ## Overview
  A memory game built using React. It involves breaking the UI into components, managing component state, and the components responding to user events.
